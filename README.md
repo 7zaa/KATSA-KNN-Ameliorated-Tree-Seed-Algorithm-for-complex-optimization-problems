@@ -1,5 +1,8 @@
 # KATSA-KNN-Ameliorated-Tree-Seed-Algorithm-for-complex-optimization-problems
 matlab Code of my paper 'KATSA: KNN Ameliorated Tree Seed Algorithm for complex optimization problems'
+
+bibtex citation as follows
+
 @article{JIANG2025127465,
 title = {KATSA: KNN Ameliorated Tree Seed Algorithm for complex optimization problems},
 journal = {Expert Systems with Applications},
